@@ -5,7 +5,8 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f9f9f9
+    background-color: #f9f9f9;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container {
@@ -40,6 +41,7 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 8px;
+    background-color: #1bae70;
 }
 
 @media (max-width: 600px) {
