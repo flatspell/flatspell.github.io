@@ -1,2 +1,2 @@
 # flatspell.github.io
-Marketing site. Built in Github Pages, Jekyll, Hyde.
+Marketing site. Built in Github Pages.
