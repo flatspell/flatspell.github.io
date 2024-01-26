@@ -21,7 +21,7 @@ body, html {
 h1 {
     font-family: 'Montserrat', sans-serif;
     line-weight: bold;
-    font-size: 60px;
+    font-size: 120px;
 }
 
 .container {
@@ -111,7 +111,7 @@ footer {
   background-color: #f9f9f9;
 }
 
-.footer a {
+a {
     color: black
 }
 
