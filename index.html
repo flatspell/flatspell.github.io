@@ -23,10 +23,13 @@
     <footer>
         <div class="footer-wrapper">
             <div class="footer-content-box">Pacific Northwest Built 🌲🇺🇸</div>
-            <div class="footer-content-box">© 2025 Flatspell</div>
+            <div class="footer-content-box">© <span id="copyright-year"></span> Flatspell</div>
             <div class="footer-content-box">
             <a href="/privacy_policy.txt" target="_blank" class="link">Privacy Policy</a>
         </div>
     </footer>
+    <script>
+        document.getElementById('copyright-year').textContent = new Date().getFullYear();
+    </script>
 </body>
 </html>
